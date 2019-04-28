@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+it really great to become a developer
